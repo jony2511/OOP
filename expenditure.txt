@@ -1,0 +1,12 @@
+[Expense]
+Date: 2023-09-21
+Description: tosa
+Amount: $5
+[Income]
+Date: 2023-09-22
+Description: fjf
+Amount: $10
+[Expense]
+Date: 10
+Description: fjfj
+Amount: $10
